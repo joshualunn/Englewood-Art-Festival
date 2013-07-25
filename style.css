@@ -1,14 +1,19 @@
-
-body {
+body{ 
+  background: url(https://f.cloud.github.com/assets/5040655/856820/17771084-f544-11e2-943e-441d50bbc262.JPG) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   margin: 0;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 13px;
-  color: #21E680;
+  color: FireRed;
   background-color:#CF0000;
 }
 
+
 a {
-  color: #F07F60;
+  color:Black;
 } 
 
 p {
@@ -21,7 +26,7 @@ h3,
 h4,
 h5,
 h6 {
-  color: #5E9E10;
+  color: Red;
 }
 
 .page-header {
