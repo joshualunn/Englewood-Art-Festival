@@ -25,11 +25,11 @@ h3,
 h4,
 h5,
 h6 {
-  color: Red;
+  color: Yellow;
 }
 
 .page-header {
-  border-bottom: 1pxpx solid #C43220;
+  border-bottom: 3pxpx solid #C43220;
 }
 
 hr {
